@@ -36,7 +36,7 @@ Two deliverables were specifically requested:
     addition to the original date filter, city, state, country and shape filters
     were applied. See html code below:
 
-![indexfilters_VSCode](https://github.com/rloufoster/UFO-s/blob/main/static/images/indexfilters_VSCode.png?raw=true)
+![indexfilters_VSCode](./images/indexfilters_VSCode.png)
 
 -   In the app.js file, an empty filters variable to keep track of all the
     elements that change when a search is entered. This variable is used to
@@ -62,7 +62,7 @@ Two deliverables were specifically requested:
     entered, then clear the element id from the filters variable. See JavaScript
     below:
 
-![filterscodeapp_VSCode](https://github.com/rloufoster/UFO-s/blob/main/static/images/filterscodeapp_VSCode.png?raw=true)
+![filterscodeapp_VSCode](./images/filterscodeapp_VSCode.png)
 
 -   Inside the updateFilters() function the filterTable() function was called.
     In the filterTable() function, code to filter the table based on the user
@@ -76,7 +76,7 @@ Two deliverables were specifically requested:
 -   And finally, rebuild the table with the filtered data by passing the
     variable. See code below:
 
-![LoopandBuildTableappCode](https://github.com/rloufoster/UFO-s/blob/main/static/images/filterTableandBuildTableappCode.png?raw=true)
+![LoopandBuildTableappCode](./images/LoopandBuildTableappCode.png)
 
 Results
 -------
