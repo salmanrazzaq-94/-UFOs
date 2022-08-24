@@ -76,7 +76,7 @@ Two deliverables were specifically requested:
 -   And finally, rebuild the table with the filtered data by passing the
     variable. See code below:
 
-![LoopandBuildTableappCode](./images/LoopandBuildTableappCode.png)
+![LoopandBuildTableappCode](./images/filterTableandBuildTableappCode.png)
 
 Results
 -------
@@ -87,31 +87,31 @@ In order to perform a search:
 - Navigate to the main page
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-![main page](https://user-images.githubusercontent.com/103155045/185820993-86edd51c-6754-4704-81f1-ba1148b87b2a.png)
+![main page](./images/main_page.png)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Fill in a text box and press enter (The table will begin to filter)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-![first txt box](https://user-images.githubusercontent.com/103155045/185821017-222adfe1-1a34-4321-a091-dab22c7059bc.png)
+![first txt box](./images/first_txt_box.png)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Fill in another text
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-![second text box](https://user-images.githubusercontent.com/103155045/185821035-392c8360-7ea0-4356-bb16-155636fd518a.png)
+![second text box](./images/second_text_box.png)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Continue to fill in text boxes until the desired results appear
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-![third txt box](https://user-images.githubusercontent.com/103155045/185821049-c1b7e08e-36dc-457d-ad8b-811c712c6946.png)
+![third txt box](./images/third_txt_box.png)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Click the navigation bar on the top of the page to refresh results and start again
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-![refreshed by navbar](https://user-images.githubusercontent.com/103155045/185821064-04009196-270f-4c91-9e1c-1e26b951501b.png)
+![refreshed by navbar](./images/refreshed_by_navbar.png)
 
 Summary
 -------
